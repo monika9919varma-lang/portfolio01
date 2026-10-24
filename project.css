@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.intro{
+    height: 200px;
+    width: 100%;    
+    text-align: center;
+    background-color: #495867;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+
+}
+.nav{
+    height: 200px;
+    width: 100%;
+    background-color: #c18c5d;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.home1{
+    height: 200px;
+    width: 100%;
+    background-color: #ce796b;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
+.intro1{
+    height: 200px;
+    width: 100%;
+    background-color: #e7ad99;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+.about1{
+    height: 400px;
+    width: 100%;
+    background-color: #e7ad99;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+.skills1{
+    height: 500px;
+    width: 100%;
+    background-color: #e7ad99;
+
+
+
+}
+
+.python{
+    margin-top: 10px;
+    height: 100px;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+
+}
+.html{
+    height: 100px;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+.css{
+    height: 100px;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.project1{
+    height: 400px;
+    width: 100%;
+    background-color: #e7ad99;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+
+}
+
+.calculator{
+    height: 100px;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+.todo{
+    height: 100px;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+.protfolio{
+    height: 100px;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+button{
+    
+    border-radius: 5px;
+    background-color: #495867;
+    color: white;
+
+}
+
+.contact1{
+    height: 200px;
+    width: 100%;
+    background-color: #ce796b;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    padding: 10px;
+    
+    color: #495867;
+
+}
